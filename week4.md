@@ -10,5 +10,5 @@ Unsupervised Learning and Probability Review
 
 [Unsupervised Learning and Probabilities](./assets/w4_unsupervisedAndProbabilities.pdf)
 
-{% include outcomes4.html %}
+{% include outcomes4.md %}
 
