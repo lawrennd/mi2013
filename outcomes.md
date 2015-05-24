@@ -2,8 +2,8 @@
 layout: page
 title: Outcomes
 ---
-{% include outcomes1.html %}
-{% include outcomes2.html %}
-{% include outcomes4.html %}
-{% include outcomes5.html %}
-{% include outcomes6.html %}
+{% include outcomes1.md %}
+{% include outcomes2.md %}
+{% include outcomes4.md %}
+{% include outcomes5.md %}
+{% include outcomes6.md %}
